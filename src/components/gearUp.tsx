@@ -6,7 +6,9 @@ export default function GearUp() {
     <div className="">
       {/* gear name  */}
       <div>
-        <h3 className="text-[23px] font-medium">Gear Up</h3>
+        <h3
+         data-aos="flip-down"
+          className="text-[23px] font-medium pl-4">Gear Up</h3>
       </div>
 
       <div className=" lg:flex ">
