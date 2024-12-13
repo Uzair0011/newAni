@@ -6,7 +6,7 @@ export default function Features() {
       {/* Featured Header */}
       <div
         data-aos="fade-left"
-        className="text-[20px] sm:text-[23px] font-medium mb-4 text-center sm:text-left"
+        className="text-[20px] sm:text-[23px] font-medium mb-4  sm:text-left"
       >
         Featured
       </div>
