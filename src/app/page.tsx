@@ -23,7 +23,7 @@ export default function Home() {
     AOS.refresh();
   }, []);
   return (
-    <div>
+    <div className="overflow-hidden">
       <Hello />
       <BestOfAirMax />
       <Features />
